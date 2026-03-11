@@ -189,5 +189,3 @@ Author
 Built by Willy
 
 Machine Learning Engineer | AI Developer | Blockchain Developer
-
-git remote add origin https://github.com/Kam-Willy/Self-Driving-Car-Neural-Evolution-Simulator.git
